@@ -1,0 +1,16 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "baseUrl": "src",
+        "module": "amd",
+        "outDir": "tar",
+        "removeComments": true,
+        "rootDir": ".",
+        "target": "ES5",
+        "experimentalDecorators": true,
+        "downlevelIteration": true,
+        "lib": [
+            "es2018"
+        ]
+    }
+}
